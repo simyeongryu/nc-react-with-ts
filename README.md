@@ -17,7 +17,7 @@ typescript의 규칙을 명시해놓는 문서
 따라서 라이브러리를 설치할 때 `@types/`를 붙여서 설치하자.
 
 ```shell
-$ yarn add @types/styled-components
+$ yarn add styled-components @types/styled-components
 ```
 > definitelytyped 검색해서 들어가면 어떤 라이브러리가 ts로 번역(?)되어있는지 알 수 있다.
 
